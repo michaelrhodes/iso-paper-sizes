@@ -1,0 +1,20 @@
+{
+  "name": "iso-paper-sizes",
+  "version": "1.0.0",
+  "description": "The dimensions (in millimetres) of each size in the A, B, and C series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/iso-paper-sizes.git"
+  },
+  "keywords": ["paper", "size", "iso-216", "iso-269"],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/iso-paper-sizes/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/iso-paper-sizes"
+}
